@@ -13,6 +13,7 @@
   <img align="center" alt="Bia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Bia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/java-original.svg">
   <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;"src="https://media.discordapp.net/attachments/999771861288243264/999772009716256908/download20220704170442.png?width=452&height=452">
 </div>
 
